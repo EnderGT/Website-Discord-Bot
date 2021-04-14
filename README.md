@@ -13,7 +13,7 @@ Download or fork the repo to get started!
 Download or fork the repo
 
 ```
-git clone https://github.com/NourEldienHE/Discord-bot-website-template.git
+git clone https://github.com/EnderGT/Website-Bot-Discord
 ```
 
 Open index.html and start to use the website 
@@ -25,13 +25,13 @@ Open index.html and start to use the website
 
 ## Authors
 
-[Nouridio](https://github.com/Nouridio)
+[Nouridio](https://github.com/EnderGT)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-### Support Nouridio
+### Support EnderGT
 
 Support me and get access to new free website templates and premium website design.
 
